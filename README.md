@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🎓 Bacharel em Estatística pela UFES - Universidade Federal do Espítito Santo;
+  🎓 Bacharel em Estatística pela UFES - Universidade Federal do Espítito Santo.
 </p>
 
 <p align="left">
