@@ -6,6 +6,9 @@
 
 <p align="left">
   🎓 Bacharel em Estatística pela UFES - Universidade Federal do Espítito Santo;
+</p>
+
+<p align="left">
   🎓 Estudante do 1º período de Análise e Desenvolvimento de Sistemas na Unilavras - Centro Universitário de Lavras.
 </p>
 
