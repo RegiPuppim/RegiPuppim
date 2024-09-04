@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Formei-me em Estatística, mas migrei pra área do Direito trabalhando por 10 anos em Cartório de Registro de Imóveis. Decidi fazer o curso de Análise e Desenvolvimento de Sistemas, pois me interesso por programação e estou empolgada em usar meus conhecimentos em estatística na área da tecnologia.
+  Formei-me em Estatística e atualmente estou fazendo o curso de Análise e Desenvolvimento de Sistemas, pois me interesso por programação e estou empolgada em usar meus conhecimentos em estatística na área da tecnologia.
 </p>
 
 <p align="left">
-  🎓 Estudando o 1º período de Análise e Desenvolvimento de Sistemas na Unilavras - Centro Universitário de Lavras.
+  🎓 Bacharel em Estatística pela UFES - Universidade Federal do Espítito Santo;
+  🎓 Estudante do 1º período de Análise e Desenvolvimento de Sistemas na Unilavras - Centro Universitário de Lavras.
 </p>
 
 <p align="left">
